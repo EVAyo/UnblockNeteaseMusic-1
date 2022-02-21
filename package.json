@@ -41,7 +41,7 @@
 	"devDependencies": {
 		"@swc/core": "^1.2.143",
 		"@types/node": "^17.0.19",
-		"@types/pino": "6",
+		"@types/pino": "7",
 		"browserslist": "^4.19.3",
 		"core-js": "^3.21.1",
 		"jest": "^27.5.1",
